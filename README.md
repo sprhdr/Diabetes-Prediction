@@ -1,1 +1,1 @@
-# Diabetes-Prediction / support vector machine
+# Diabetes-Prediction / Python / support vector machine
